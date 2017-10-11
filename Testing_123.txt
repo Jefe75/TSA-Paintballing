@@ -2,3 +2,6 @@ hey is this thing on?
 nope
 hey
 hey what's up?
+"Discount percent: " + discountPercent + "\n"
++ "Discount amount:  " + discountAmount + "\n"
++ "Invoice total:    " + total + "\n";
